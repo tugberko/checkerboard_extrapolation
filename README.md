@@ -1,4 +1,4 @@
-# Checkerboard Classification using Scikit-Learn
+# Checkerboard Extrapolation using Scikit-Learn
 
 This project explores the use of various scikit-learn classifiers to extrapolate a checkerboard pattern. The code is written in Python and requires pandas, matplotlib and scikit-learn to be run.
 
